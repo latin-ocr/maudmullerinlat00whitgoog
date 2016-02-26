@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./maudmullerinlat00whitgoog/maudmullerinlat00whitgoog_0024.png"; bbox 0 0 3256 5264; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 582 2359 1079 2423">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 582 2359 1079 2423">
+     <span class='ocr_line' id='line_1_1' title="bbox 582 2359 1079 2423; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 582 2361 615 2423; x_wconf 89' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 638 2361 798 2422; x_wconf 87' lang='lat' dir='ltr'>SHEAF</span> <span class='ocrx_word' id='word_1_3' title='bbox 821 2361 882 2422; x_wconf 91' lang='lat' dir='ltr'><em>OF</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 906 2359 1079 2423; x_wconf 89' lang='lat' dir='ltr'>LYRICS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 757 2577 904 2585">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 757 2577 904 2585">
+     <span class='ocr_line' id='line_1_2' title="bbox 757 2577 904 2585; baseline 0.014 -2"><span class='ocrx_word' id='word_1_5' title='bbox 757 2577 904 2585; x_wconf 51' lang='lat'><em>*-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 697 2727 983 2791">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 697 2727 983 2791">
+     <span class='ocr_line' id='line_1_3' title="bbox 697 2727 983 2791; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 697 2727 803 2789; x_wconf 83' lang='lat' dir='ltr'><em>Latin</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 832 2727 983 2791; x_wconf 83' lang='lat' dir='ltr'><em>Versions</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1632 5264">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1632 5264">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1632 5264; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1632 5264; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
